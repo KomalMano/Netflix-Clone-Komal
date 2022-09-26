@@ -6,7 +6,8 @@
 
 ![NetFlix3](https://user-images.githubusercontent.com/56540613/192297548-8d5247ca-aa69-400e-aeed-5ea085217b4b.PNG)
 
-![NetFlix4](https://user-images.githubusercontent.com/56540613/192297569-1e5fae01-91a5-4249-8f0b-37690519db7e.PNG)
+![Netflix6](https://user-images.githubusercontent.com/56540613/192301186-88e9491c-10fb-44dd-9118-d856b1ae8fbf.PNG)
+
 
 # Getting Started with Create React App
 
