@@ -9,6 +9,7 @@
 ![Netflix6](https://user-images.githubusercontent.com/56540613/192301186-88e9491c-10fb-44dd-9118-d856b1ae8fbf.PNG)
 
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
