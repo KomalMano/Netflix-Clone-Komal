@@ -1,3 +1,13 @@
+# Output
+
+![NetFlix1](https://user-images.githubusercontent.com/56540613/192297426-e2c9b6ca-9a9b-4681-94ad-a0ba40a0e585.PNG)
+
+![NetFlix2](https://user-images.githubusercontent.com/56540613/192297476-1ca44d88-12ef-4142-88aa-12b0cfe45792.PNG
+
+![NetFlix3](https://user-images.githubusercontent.com/56540613/192297548-8d5247ca-aa69-400e-aeed-5ea085217b4b.PNG)
+
+![NetFlix4](https://user-images.githubusercontent.com/56540613/192297569-1e5fae01-91a5-4249-8f0b-37690519db7e.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
