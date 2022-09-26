@@ -1,8 +1,8 @@
 # Output
 
-![NetFlix1](https://user-images.githubusercontent.com/56540613/192297426-e2c9b6ca-9a9b-4681-94ad-a0ba40a0e585.PNG)
+![Netflix5](https://user-images.githubusercontent.com/56540613/192300202-d231c58b-3fd3-4b90-a481-64003110c8cf.PNG)
 
-![NetFlix2](https://user-images.githubusercontent.com/56540613/192297476-1ca44d88-12ef-4142-88aa-12b0cfe45792.PNG
+![NetFlix1](https://user-images.githubusercontent.com/56540613/192297426-e2c9b6ca-9a9b-4681-94ad-a0ba40a0e585.PNG)
 
 ![NetFlix3](https://user-images.githubusercontent.com/56540613/192297548-8d5247ca-aa69-400e-aeed-5ea085217b4b.PNG)
 
